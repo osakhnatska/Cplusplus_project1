@@ -1,0 +1,8 @@
+1) Namespace is a region where we declare identifiers such as functions, variables etc. It is used to organize
+code and avoid naming conflict.
+2) Header files are files were we declare our functions, so that we can use it in multiple source files.
+3) We never compile header files because they are included in our source files.
+4) If we include one cpp file in other cpp file it defeats the purpose of modular programming and it also 
+increases compile time.
+5) I learned how to use namespaces, how to add safeguards to code modules to prevent multiple 
+includes and why do we need it, how to divide your code in different modules.
